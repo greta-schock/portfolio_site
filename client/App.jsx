@@ -3,6 +3,7 @@ import React from 'react';
 import Nav from 'react-bootstrap/Nav'
 import Navbar from 'react-bootstrap/Navbar';
 //Component Imports
+import TechSkills from './components/TechSkills.jsx';
 import Projects from './components/Projects.jsx';
 import ContactMe from './components/ContactMe.jsx';
 
@@ -17,6 +18,7 @@ const App = () => {
                     <Nav.Link href="#contact_me">Contact Me</Nav.Link>
                 </Nav>
             </Navbar>
+            <TechSkills />
             <Projects />
             <ContactMe />
         </>
