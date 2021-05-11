@@ -15,15 +15,26 @@ const AboutMe = () => {
                     <h3>and I'm a Software Engineer</h3>
                 </div>
             </div> */}
+
             <div id="about_me">
-            <Jumbotron id="about_me_text">
-                <h1>Hello, world!</h1>
-                <p>
-                    This is a simple hero unit, a simple jumbotron-style component for calling
-                    extra attention to featured content or information.
-                </p>
-            </Jumbotron>
-            </div> 
+                <Jumbotron id="about_me_text">
+                    <Container>
+                        <Row>
+                            <Col sm={5}>
+                                small=4
+                            </Col>
+                            <Col sm={7}>
+                                <h1>Hello, world!</h1>
+                                <p>
+                                    This is a simple hero unit, a simple jumbotron-style component for calling
+                                    extra attention to featured content or information.
+                                </p>
+
+                            </Col>
+                        </Row>
+                    </Container>
+                </Jumbotron>
+            </div>
 
         </>
     )
