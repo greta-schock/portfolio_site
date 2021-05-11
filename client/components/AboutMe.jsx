@@ -21,13 +21,12 @@ const AboutMe = () => {
                     <Container>
                         <Row>
                             <Col sm={5}>
-                                small=4
+                                <Image id="profile_pic" src="./photos/profile_pic.jpeg"/>
                             </Col>
                             <Col sm={7}>
                                 <h1>Hello, world!</h1>
                                 <p>
-                                    This is a simple hero unit, a simple jumbotron-style component for calling
-                                    extra attention to featured content or information.
+                                Hey there! I'm Greta and I adore learning languages, both linguistic and code-based. "It's not that you don't know something, you don't know something yet."
                                 </p>
 
                             </Col>
