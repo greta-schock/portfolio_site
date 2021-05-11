@@ -1,37 +1,20 @@
 import React from 'react';
-import Table from 'react-bootstrap/Table';
+import ListGroup from 'react-bootstrap/ListGroup';
+
 
 const TechSkills = () => {
     return (
-        <Table borderless>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>First Name</th>
-      <th>Last Name</th>
-      <th>Username</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td colSpan="2">Larry the Bird</td>
-      <td>@twitter</td>
-    </tr>
-  </tbody>
-</Table>
+        <>
+            <h3>Languages</h3>
+            {/* <figure><embed src="https://wakatime.com/share/@55a54f0e-e543-48bb-846e-b49420dbb3a4/5e8d85e2-c12e-46f1-b368-113a58f9c899.svg"></embed></figure> */}
+            <ListGroup horizontal='xl' className="my-2">
+                <ListGroup.Item>This ListGroup</ListGroup.Item>
+                <ListGroup.Item>renders horizontally</ListGroup.Item>
+                <ListGroup.Item>on </ListGroup.Item>
+                <ListGroup.Item>and above!</ListGroup.Item>
+            </ListGroup>
+
+        </>
     )
 }
 
