@@ -8,33 +8,22 @@ import Row from 'react-bootstrap/Row';
 const AboutMe = () => {
     return (
         <>
-            {/* <div id="about_me">
-                    <Image id="profile_pic" src="./photos/profile_pic.jpeg" roundedCircle/>
-                <div id="about_me_text">
-                    <h1 style={{fontSize: "50px"}}>Hey there, I'm Greta Schock</h1>
-                    <h3>and I'm a Software Engineer</h3>
-                </div>
-            </div> */}
+        <Jumbotron>
+            <Container>
+                <Row>
+                    <Col sm={5}>
+                        <Image id="profile_pic" src="./photos/profile_pic.jpeg" />
+                    </Col>
+                    <Col sm={7}>
+                        <h1>Hello, world!</h1>
+                        <p>
+                            Hey there! I'm Greta and I adore learning languages, both linguistic and code-based. "It's not that you don't know something, you don't know something yet."
+                            </p>
 
-            <div id="about_me">
-                <Jumbotron id="about_me_text">
-                    <Container>
-                        <Row>
-                            <Col sm={5}>
-                                <Image id="profile_pic" src="./photos/profile_pic.jpeg"/>
-                            </Col>
-                            <Col sm={7}>
-                                <h1>Hello, world!</h1>
-                                <p>
-                                Hey there! I'm Greta and I adore learning languages, both linguistic and code-based. "It's not that you don't know something, you don't know something yet."
-                                </p>
-
-                            </Col>
-                        </Row>
-                    </Container>
-                </Jumbotron>
-            </div>
-
+                    </Col>
+                </Row>
+            </Container>
+        </Jumbotron>
         </>
     )
 }
