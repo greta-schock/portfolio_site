@@ -67,10 +67,10 @@ const TechSkills = () => {
                                     <td>MySQL</td>
                                 </tr>
                                 <tr>
-                                    <td>SQL</td>
+                                    <td>PostgreSQL</td>
                                 </tr>
                                 <tr>
-                                    <td>PostgreSQL</td>
+                                    <td>SQL</td>
                                 </tr>
                             </tbody>
                         </Table>
