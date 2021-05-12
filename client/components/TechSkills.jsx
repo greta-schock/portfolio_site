@@ -20,6 +20,9 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
+                                    <td>Bootstrap</td>
+                                </tr>
+                                <tr>
                                     <td>CSS</td>
                                 </tr>
                                 <tr>
@@ -29,10 +32,13 @@ const TechSkills = () => {
                                     <td>JavaScript</td>
                                 </tr>
                                 <tr>
-                                    <td>MongoDB</td>
+                                    <td>jQuery</td>
                                 </tr>
                                 <tr>
-                                    <td>SQL</td>
+                                    <td>React (v. 16.8+)</td>
+                                </tr>
+                                <tr>
+                                    <td>Underscore</td>
                                 </tr>
                             </tbody>
                         </Table>
@@ -46,24 +52,93 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>CSS</td>
-                                </tr>
-                                <tr>
-                                    <td>HTML</td>
-                                </tr>
-                                <tr>
-                                    <td>JavaScript</td>
+                                    <td>Express.js</td>
                                 </tr>
                                 <tr>
                                     <td>MongoDB</td>
                                 </tr>
                                 <tr>
+                                    <td>Mongoose</td>
+                                </tr>
+                                <tr>
+                                    <td>Node.js</td>
+                                </tr>
+                                <tr>
+                                    <td>MySQL</td>
+                                </tr>
+                                <tr>
                                     <td>SQL</td>
+                                </tr>
+                                <tr>
+                                    <td>PostgreSQL</td>
                                 </tr>
                             </tbody>
                         </Table>
                     </Col>
-                    <Col>3 of 3</Col>
+                    <Col>
+                        <Table>
+                            <thead>
+                                <tr>
+                                    <th>Testing</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Chai</td>
+                                </tr>
+                                <tr>
+                                    <td>Enzyme</td>
+                                </tr>
+                                <tr>
+                                    <td>Jest</td>
+                                </tr>
+                                <tr>
+                                    <td>Mocha</td>
+                                </tr>
+                                <tr>
+                                    <td>React Testing Library</td>
+                                </tr>
+                            </tbody>
+                        </Table>
+                    </Col>
+                    <Col>
+                        <Table>
+                            <thead>
+                                <tr>
+                                    <th>Frameworks and Technologies</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Axios</td>
+                                </tr>
+                                <tr>
+                                    <td>AWS - EC2</td>
+                                </tr>
+                                <tr>
+                                    <td>Babel</td>
+                                </tr>
+                                <tr>
+                                    <td>Docker</td>
+                                </tr>
+                                <tr>
+                                    <td>CircleCI</td>
+                                </tr>
+                                <tr>
+                                    <td>Git</td>
+                                </tr>
+                                <tr>
+                                    <td>GitHub</td>
+                                </tr>
+                                <tr>
+                                    <td>K6</td>
+                                </tr>
+                                <tr>
+                                    <td>Loader.io</td>
+                                </tr>
+                            </tbody>
+                        </Table>
+                    </Col>
                 </Row>
             </Container>
         </>
