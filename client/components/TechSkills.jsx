@@ -29,7 +29,7 @@ const TechSkills = () => {
                                     <td>HTML</td>
                                 </tr>
                                 <tr>
-                                    <td>JavaScript</td>
+                                    <td><i class="fab fa-js-square"></i>JavaScript</td>
                                 </tr>
                                 <tr>
                                     <td>jQuery</td>
@@ -93,6 +93,12 @@ const TechSkills = () => {
                                     <td>Jest</td>
                                 </tr>
                                 <tr>
+                                    <td>K6</td>
+                                </tr>
+                                <tr>
+                                    <td>Loader.io</td>
+                                </tr>
+                                <tr>
                                     <td>Mocha</td>
                                 </tr>
                                 <tr>
@@ -105,13 +111,10 @@ const TechSkills = () => {
                         <Table>
                             <thead>
                                 <tr>
-                                    <th>Frameworks and Technologies</th>
+                                    <th>Technologies</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
-                                    <td>Axios</td>
-                                </tr>
                                 <tr>
                                     <td>AWS - EC2</td>
                                 </tr>
@@ -131,10 +134,7 @@ const TechSkills = () => {
                                     <td>GitHub</td>
                                 </tr>
                                 <tr>
-                                    <td>K6</td>
-                                </tr>
-                                <tr>
-                                    <td>Loader.io</td>
+                                    <td>VS Code</td>
                                 </tr>
                             </tbody>
                         </Table>
