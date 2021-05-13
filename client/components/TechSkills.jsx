@@ -23,10 +23,10 @@ const TechSkills = () => {
                                     <td>Bootstrap</td>
                                 </tr>
                                 <tr>
-                                    <td>CSS</td>
+                                    <td>CSS 3</td>
                                 </tr>
                                 <tr>
-                                    <td>HTML</td>
+                                    <td>HTML 5</td>
                                 </tr>
                                 <tr>
                                     <td><i class="fab fa-js-square"></i>JavaScript</td>
@@ -122,10 +122,10 @@ const TechSkills = () => {
                                     <td>Babel</td>
                                 </tr>
                                 <tr>
-                                    <td>Docker</td>
+                                    <td>CircleCI</td>
                                 </tr>
                                 <tr>
-                                    <td>CircleCI</td>
+                                    <td>Docker</td>
                                 </tr>
                                 <tr>
                                     <td>Git</td>
@@ -134,7 +134,7 @@ const TechSkills = () => {
                                     <td>GitHub</td>
                                 </tr>
                                 <tr>
-                                    <td>VS Code</td>
+                                    <td>Webpack</td>
                                 </tr>
                             </tbody>
                         </Table>
