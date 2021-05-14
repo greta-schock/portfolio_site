@@ -3,6 +3,7 @@ import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
 //Carousels
 import BootketListCarousel from './projects_components/BootketListCarousel';
+import ProjectCatwalkCarousel from './projects_components/ProjectCatwalkCarousel';
 import SmoveCarousel from './projects_components/SmoveCarousel';
 
 const Projects = () => (
@@ -36,9 +37,9 @@ const Projects = () => (
                 </Card.Footer>
             </Card>
             <Card>
-                <Card.Img variant="top" src="./photos/background.jpg" />
+                <ProjectCatwalkCarousel />
                 <Card.Body>
-                    <Card.Title>Card title</Card.Title>
+                    <Card.Title>Project Catwalk</Card.Title>
                     <Card.Text>
                         This is a wider card with supporting text below as a natural lead-in to
                         additional content. This card has even longer content than the first to
