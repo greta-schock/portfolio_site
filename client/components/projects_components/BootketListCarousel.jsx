@@ -6,37 +6,23 @@ const BootketListCarousel = () => (
         <Carousel.Item>
             <img
                 className="d-block w-100"
-                src="./photos/background.jpg"
+                src="./photos/bootket_list_screenshots/bootket_list_explore.png"
                 alt="First slide"
             />
-            <Carousel.Caption>
-                <h3>First slide label</h3>
-                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-            </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
             <img
                 className="d-block w-100"
-                src="./photos/background.jpg"
+                src="./photos/bootket_list_screenshots/bootket_list_list.png"
                 alt="Second slide"
             />
-
-            <Carousel.Caption>
-                <h3>Second slide label</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
             <img
                 className="d-block w-100"
-                src="./photos/background.jpg"
+                src="./photos/bootket_list_screenshots/bootket_list_LNT.png"
                 alt="Third slide"
             />
-
-            <Carousel.Caption>
-                <h3>Third slide label</h3>
-                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-            </Carousel.Caption>
         </Carousel.Item>
     </Carousel>
 );
