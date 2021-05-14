@@ -10,7 +10,7 @@ const Projects = () => (
     <>
         <h1>Projects</h1>
         <CardDeck>
-            <Card>
+            <Card border="info" >
                 <SmoveCarousel />
                 <Card.Body>
                     <Card.Title>Smove</Card.Title>
@@ -20,7 +20,7 @@ const Projects = () => (
                     <small className="text-muted">React | Bootstrap | Express | MongoDB Atlas | Google Authentication | Yelp API</small>
                 </Card.Footer>
             </Card>
-            <Card>
+            <Card border="info" >
                 <BootketListCarousel />
                 <Card.Body>
                     <Card.Title>Bootket List</Card.Title>
@@ -30,7 +30,7 @@ const Projects = () => (
                     <small className="text-muted">React | Bootstrap | Express | PostgreSQL | National Parks Service API</small>
                 </Card.Footer>
             </Card>
-            <Card>
+            <Card border="info" >
                 <ProjectCatwalkCarousel />
                 <Card.Body>
                     <Card.Title>Project Catwalk</Card.Title>
