@@ -15,12 +15,11 @@ const Projects = () => (
                 <Card.Body>
                     <Card.Title>Smove</Card.Title>
                     <Card.Text>
-                        Smove is a web app to organize all aspects of a residential move. With the features like a task list, inventory list, and a Yelp API search for local moving services, users will be able to login, collaborate tasks/calendars with friends, and schedule everything related to their move in one application.
+                        Smove is a web app to organize all aspects of a residential move.
                     </Card.Text>
                 </Card.Body>
                 <Card.Footer>
-                    <small className="text-muted">React (v. 17) | React Bootstrap | React.Router | CSS Stylized Components | REST APIs | Express.js | Axios | MongoDB Atlas | Mongoose | Google Authorization | Yelp API | React Testing Library
-</small>
+                    <small className="text-muted">React | Bootstrap | Express | MongoDB Atlas | Google Authentication | Yelp API</small>
                 </Card.Footer>
             </Card>
             <Card>
