@@ -15,12 +15,12 @@ const Projects = () => (
                 <Card.Body>
                     <Card.Title>Smove</Card.Title>
                     <Card.Text>
-                        This is a wider card with supporting text below as a natural lead-in to
-                        additional content. This content is a little bit longer.
+                        Smove is a web app to organize all aspects of a residential move. With the features like a task list, inventory list, and a Yelp API search for local moving services, users will be able to login, collaborate tasks/calendars with friends, and schedule everything related to their move in one application.
                     </Card.Text>
                 </Card.Body>
                 <Card.Footer>
-                    <small className="text-muted">Last updated 3 mins ago</small>
+                    <small className="text-muted">React (v. 17) | React Bootstrap | React.Router | CSS Stylized Components | REST APIs | Express.js | Axios | MongoDB Atlas | Mongoose | Google Authorization | Yelp API | React Testing Library
+</small>
                 </Card.Footer>
             </Card>
             <Card>
