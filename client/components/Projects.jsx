@@ -1,8 +1,6 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
-import CardGroup from 'react-bootstrap/CardGroup';
-import Carousel from 'react-bootstrap/Carousel';
 //Carousels
 import SmoveCarousel from './projects_components/SmoveCarousel';
 
