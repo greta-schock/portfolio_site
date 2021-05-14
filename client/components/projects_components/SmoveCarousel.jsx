@@ -6,38 +6,48 @@ const SmoveCarousel = () => (
         <Carousel.Item>
             <img
                 className="d-block w-100"
-                src="./photos/background.jpg"
+                src="./photos/smove_screenshots/smove_getting_started.png"
                 alt="First slide"
             />
-            <Carousel.Caption>
-                <h3>First slide label</h3>
-                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-            </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
             <img
                 className="d-block w-100"
-                src="./photos/background.jpg"
-                alt="Second slide"
+                src="./photos/smove_screenshots/smove_landing.png"
+                alt="First slide"
             />
-
-            <Carousel.Caption>
-                <h3>Second slide label</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
             <img
                 className="d-block w-100"
-                src="./photos/background.jpg"
-                alt="Third slide"
+                src="./photos/smove_screenshots/smove_tasks.png"
+                alt="First slide"
             />
-
-            <Carousel.Caption>
-                <h3>Third slide label</h3>
-                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-            </Carousel.Caption>
         </Carousel.Item>
+        <Carousel.Item>
+            <img
+                className="d-block w-100"
+                src="./photos/smove_screenshots/smove_inventory.png"
+                alt="First slide"
+            />
+        </Carousel.Item>
+        <Carousel.Item>
+            <img
+                className="d-block w-100"
+                src="./photos/smove_screenshots/smove_inventory_modal.png"
+                alt="First slide"
+            />
+        </Carousel.Item>
+        <Carousel.Item>
+            <img
+                className="d-block w-100"
+                src="./photos/smove_screenshots/smove_map.png"
+                alt="First slide"
+            />
+        </Carousel.Item>
+
+
+
     </Carousel>
 );
 
