@@ -12,7 +12,7 @@ const TechSkills = () => {
             <Container>
                 <Row>
                     <Col>
-                        <Table >
+                        <Table borderless={true}>
                             <thead>
                                 <tr>
                                     <th>Frontend</th>
@@ -44,7 +44,7 @@ const TechSkills = () => {
                         </Table>
                     </Col>
                     <Col>
-                        <Table>
+                        <Table borderless={true}>
                             <thead>
                                 <tr>
                                     <th>Backend</th>
@@ -76,7 +76,7 @@ const TechSkills = () => {
                         </Table>
                     </Col>
                     <Col>
-                        <Table>
+                        <Table borderless={true}>
                             <thead>
                                 <tr>
                                     <th>Testing</th>
@@ -108,7 +108,7 @@ const TechSkills = () => {
                         </Table>
                     </Col>
                     <Col>
-                        <Table>
+                        <Table borderless={true}>
                             <thead>
                                 <tr>
                                     <th>Technologies</th>
