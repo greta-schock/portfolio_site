@@ -14,9 +14,7 @@ const Projects = () => (
                 <SmoveCarousel />
                 <Card.Body>
                     <Card.Title>Smove</Card.Title>
-                    <Card.Text>
-                        Smove is a web app to organize all aspects of a residential move.
-                    </Card.Text>
+                    <Card.Text>A web app to organize all aspects of a residential move.</Card.Text>
                 </Card.Body>
                 <Card.Footer>
                     <small className="text-muted">React | Bootstrap | Express | MongoDB Atlas | Google Authentication | Yelp API</small>
@@ -26,13 +24,10 @@ const Projects = () => (
                 <BootketListCarousel />
                 <Card.Body>
                     <Card.Title>Bootket List</Card.Title>
-                    <Card.Text>
-                        This card has supporting text below as a natural lead-in to additional
-        content.{' '}
-                    </Card.Text>
+                    <Card.Text>A web app to explore and save various hikes in U.S. National Parks</Card.Text>
                 </Card.Body>
                 <Card.Footer>
-                    <small className="text-muted">Last updated 3 mins ago</small>
+                    <small className="text-muted">React | Bootstrap | Express | PostgreSQL | National Parks Service API</small>
                 </Card.Footer>
             </Card>
             <Card>
