@@ -29,7 +29,7 @@ const TechSkills = () => {
                                     <td>HTML 5</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-js-square"></i>JavaScript</td>
+                                    <td>JavaScript</td>
                                 </tr>
                                 <tr>
                                     <td>jQuery</td>
