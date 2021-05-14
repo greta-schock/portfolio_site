@@ -34,14 +34,10 @@ const Projects = () => (
                 <ProjectCatwalkCarousel />
                 <Card.Body>
                     <Card.Title>Project Catwalk</Card.Title>
-                    <Card.Text>
-                        This is a wider card with supporting text below as a natural lead-in to
-                        additional content. This card has even longer content than the first to
-                        show that equal height action.
-                    </Card.Text>
+                    <Card.Text>A e-commerce web app with a product overview, questions/answers, and ratings and review sections</Card.Text>
                 </Card.Body>
                 <Card.Footer>
-                    <small className="text-muted">Last updated 3 mins ago</small>
+                    <small className="text-muted">React | CSS | Express | PostgreSQL | REST API | K6 | AWS | NGINX | Loader.io | Docker</small>
                 </Card.Footer>
             </Card>
         </CardDeck>
