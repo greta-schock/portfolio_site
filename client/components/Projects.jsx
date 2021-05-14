@@ -2,6 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
 //Carousels
+import BootketListCarousel from './projects_components/BootketListCarousel';
 import SmoveCarousel from './projects_components/SmoveCarousel';
 
 const Projects = () => (
@@ -9,7 +10,6 @@ const Projects = () => (
         <h1>Projects</h1>
         <CardDeck>
             <Card>
-                {/* <Card.Img variant="top" src="./photos/background.jpg" /> */}
                 <SmoveCarousel />
                 <Card.Body>
                     <Card.Title>Smove</Card.Title>
@@ -23,9 +23,9 @@ const Projects = () => (
                 </Card.Footer>
             </Card>
             <Card>
-                <Card.Img variant="top" src="./photos/background.jpg" />
+                <BootketListCarousel />
                 <Card.Body>
-                    <Card.Title>Card title</Card.Title>
+                    <Card.Title>Bootket List</Card.Title>
                     <Card.Text>
                         This card has supporting text below as a natural lead-in to additional
         content.{' '}
