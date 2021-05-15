@@ -9,7 +9,7 @@ import SmoveCarousel from './projects_components/SmoveCarousel';
 const Projects = () => (
     <>
         <h1>Projects</h1>
-        <CardDeck>
+        <CardDeck id="projects">
             <Card border="info" >
                 <SmoveCarousel />
                 <Card.Body>
