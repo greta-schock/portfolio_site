@@ -20,25 +20,25 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>Bootstrap</td>
+                                    <td><i class="fab fa-bootstrap"></i> Bootstrap</td>
                                 </tr>
                                 <tr>
-                                    <td>CSS 3</td>
+                                    <td><i class="fab fa-css3-alt"></i> CSS 3</td>
                                 </tr>
                                 <tr>
-                                    <td>HTML 5</td>
+                                    <td><i class="fab fa-html5"></i> HTML 5</td>
                                 </tr>
                                 <tr>
-                                    <td>JavaScript</td>
+                                    <td><i class="fab fa-js-square"></i> JavaScript</td>
                                 </tr>
                                 <tr>
-                                    <td>jQuery</td>
+                                    <td>jQuery (REPLACE)</td>
                                 </tr>
                                 <tr>
-                                    <td>React (v. 16.8+)</td>
+                                    <td> <i class="fab fa-react"></i> React (v. 16.8+)</td>
                                 </tr>
                                 <tr>
-                                    <td>Underscore</td>
+                                    <td>Underscore (REPLACE)</td>
                                 </tr>
                             </tbody>
                         </Table>
