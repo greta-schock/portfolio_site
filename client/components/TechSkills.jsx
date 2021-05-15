@@ -32,7 +32,7 @@ const TechSkills = () => {
                                     <td><i class="fab fa-js-square"></i> JavaScript</td>
                                 </tr>
                                 <tr>
-                                    <td>jQuery (REPLACE)</td>
+                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/jquery.png"/> jQuery</td>
                                 </tr>
                                 <tr>
                                     <td> <i class="fab fa-react"></i> React (v. 16.8+)</td>
@@ -67,10 +67,10 @@ const TechSkills = () => {
                                     <td>MySQL</td>
                                 </tr>
                                 <tr>
-                                    <td>PostgreSQL</td>
+                                    <td><img src="https://img.icons8.com/material/15/000000/postgreesql.png"/> PostgreSQL</td>
                                 </tr>
                                 <tr>
-                                    <td>SQL</td>
+                                    <td><img src="https://img.icons8.com/metro/15/000000/sql.png"/> SQL</td>
                                 </tr>
                             </tbody>
                         </Table>
@@ -145,6 +145,9 @@ const TechSkills = () => {
                 <a href="https://icons8.com/icon/c2zmJ2--GehY/webpack">Webpack icon by Icons8</a>
                 <a href="https://icons8.com/icon/C4OYHif_29XE/circleci">Circleci icon by Icons8</a>
                 <a href="https://icons8.com/icon/OOrZQ7xdvxjX/babel">Babel icon by Icons8</a>
+                <a href="https://icons8.com/icon/40253/jquery">JQuery icon by Icons8</a>
+                <a href="https://icons8.com/icon/3764/sql">SQL icon by Icons8</a>
+                <a href="https://icons8.com/icon/38622/postgresql">PostgreSQL icon by Icons8</a>
             </div>
         </>
     )
