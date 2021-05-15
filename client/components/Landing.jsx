@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 
 const Landing = () => (
     <Card className="bg-dark text-white">
-        <Card.Img src="./photos/gc2.jpeg" alt="Card image" width="100%"/>
+        <Card.Img id="background" src="./photos/gc2.jpeg" alt="Card image"/>
         <Card.ImgOverlay id="about_me_text">
             <h1>Greta Schock</h1>
             {/* <Card.Title>Card title</Card.Title> */}

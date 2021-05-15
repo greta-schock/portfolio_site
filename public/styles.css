@@ -1,3 +1,9 @@
+#background {
+  width: auto; /* width of container */
+  height: 1000px; /* height of container */
+  object-fit: cover;
+}
+
 #about_me_text {
   margin: 30px;
   text-align: center;
