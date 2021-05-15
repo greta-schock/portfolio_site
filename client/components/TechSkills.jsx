@@ -55,7 +55,7 @@ const TechSkills = () => {
                                     <td>Express.js</td>
                                 </tr>
                                 <tr>
-                                    <td>MongoDB</td>
+                                    <td><img src="https://img.icons8.com/color/15/000000/mongodb.png"/> MongoDB</td>
                                 </tr>
                                 <tr>
                                     <td>Mongoose</td>
@@ -64,7 +64,7 @@ const TechSkills = () => {
                                     <td><i class="fab fa-node-js"></i> Node.js</td>
                                 </tr>
                                 <tr>
-                                    <td>MySQL</td>
+                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/mysql-logo.png"/> MySQL</td>
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/material/15/000000/postgreesql.png"/> PostgreSQL</td>
@@ -148,6 +148,8 @@ const TechSkills = () => {
                 <a href="https://icons8.com/icon/40253/jquery">JQuery icon by Icons8</a>
                 <a href="https://icons8.com/icon/3764/sql">SQL icon by Icons8</a>
                 <a href="https://icons8.com/icon/38622/postgresql">PostgreSQL icon by Icons8</a>
+                <a href="https://icons8.com/icon/39855/mysql-logo">MySQL Logo icon by Icons8</a>
+                <a href="https://icons8.com/icon/74402/mongodb">MongoDB icon by Icons8</a>
             </div>
         </>
     )

@@ -22,8 +22,11 @@ const App = () => {
             </Navbar>
             <Landing />
             <AboutMe />
+            <br></br>
             <TechSkills />
+            <br></br>
             <Projects />
+            <br></br>
             <ContactMe />
         </>
     )
