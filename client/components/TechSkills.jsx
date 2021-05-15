@@ -32,14 +32,11 @@ const TechSkills = () => {
                                     <td><i class="fab fa-js-square"></i> JavaScript</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/jquery.png"/> jQuery</td>
+                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/jquery.png" alt="jQuery_icon"/> jQuery</td>
                                 </tr>
                                 <tr>
-                                    <td> <i class="fab fa-react"></i> React (v. 16.8+)</td>
+                                    <td><i class="fab fa-react"></i> React (v. 16.8+)</td>
                                 </tr>
-                                {/* <tr>
-                                    <td>Underscore (REPLACE)</td>
-                                </tr> */}
                             </tbody>
                         </Table>
                     </Col>
@@ -52,25 +49,22 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><img width="15px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> Express</td>
+                                    <td><img width="15px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express_icon"/> Express</td>
                                 </tr>
                                 <tr>
-                                    <td><img width="15px"src="./photos/icons8-mongodb.png"/> MongoDB/Mongoose</td>
+                                    <td><img width="15px"src="./photos/icons8-mongodb.png" alt="MongoDB_icon"/> MongoDB/Mongoose</td>
                                 </tr>
-                                {/* <tr>
-                                    <td>Mongoose</td>
-                                </tr> */}
                                 <tr>
                                     <td><i class="fab fa-node-js"></i> Node.js</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/mysql-logo.png"/> MySQL</td>
+                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/mysql-logo.png" alt="MySQL_icon"/> MySQL</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/material/15/000000/postgreesql.png"/> PostgreSQL</td>
+                                    <td><img src="https://img.icons8.com/material/15/000000/postgreesql.png" alt="PostgreSQL_icon"/> PostgreSQL</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/metro/15/000000/sql.png"/> SQL</td>
+                                    <td><img src="https://img.icons8.com/metro/15/000000/sql.png" alt="SQL_icon"/> SQL</td>
                                 </tr>
                             </tbody>
                         </Table>
@@ -87,10 +81,10 @@ const TechSkills = () => {
                                     <td><i class="fab fa-aws"></i> AWS - EC2</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/wired/20/000000/babel.png"/> Babel</td>
+                                    <td><img src="https://img.icons8.com/wired/20/000000/babel.png" alt="babel_icon"/> Babel</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/color/15/000000/circleci.png"/> CircleCI</td>
+                                    <td><img src="https://img.icons8.com/color/15/000000/circleci.png" alt="circleCI_icon"/> CircleCI</td>
                                 </tr>
                                 <tr>
                                     <td><i class="fab fa-docker"></i> Docker</td>
@@ -102,7 +96,7 @@ const TechSkills = () => {
                                     <td><i class="fab fa-github"></i> Git/GitHub</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" /> Webpack</td>
+                                    <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" alt="webpack_icon"/> Webpack</td>
                                 </tr>
                             </tbody>
                         </Table>
@@ -118,39 +112,23 @@ const TechSkills = () => {
                                 <tr>
                                     <td><i class="fas fa-coffee"></i> Mocha/Chai</td>
                                 </tr>
-                                {/* <tr>
-                                    <td>Enzyme/</td>
-                                </tr> */}
                                 <tr>
                                     <td><span class="iconify" data-icon="logos-jest" data-inline="false"></span> Jest/Enzyme</td>
                                 </tr>
                                 <tr>
-                                    <td>K6</td>
+                                    <td><i class="fas fa-mountain"></i> K6</td>
                                 </tr>
                                 <tr>
-                                    <td>Loader.io</td>
+                                    <td><i class="fas fa-weight-hanging"></i> Loader.io</td>
                                 </tr>
-                                {/* <tr>
-                                    <td>Mocha</td>
-                                </tr> */}
                                 <tr>
-                                    <td>React Testing Library</td>
+                                    <td><i class="fab fa-react"></i> React Testing Library</td>
                                 </tr>
                             </tbody>
                         </Table>
                     </Col>
                 </Row>
             </Container>
-            <div>
-                <a href="https://icons8.com/icon/c2zmJ2--GehY/webpack">Webpack icon by Icons8</a>
-                <a href="https://icons8.com/icon/C4OYHif_29XE/circleci">Circleci icon by Icons8</a>
-                <a href="https://icons8.com/icon/OOrZQ7xdvxjX/babel">Babel icon by Icons8</a>
-                <a href="https://icons8.com/icon/40253/jquery">JQuery icon by Icons8</a>
-                <a href="https://icons8.com/icon/3764/sql">SQL icon by Icons8</a>
-                <a href="https://icons8.com/icon/38622/postgresql">PostgreSQL icon by Icons8</a>
-                <a href="https://icons8.com/icon/39855/mysql-logo">MySQL Logo icon by Icons8</a>
-                <a href="https://icons8.com/icon/74402/mongodb">MongoDB icon by Icons8</a>
-            </div>
         </>
     )
 }
