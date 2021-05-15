@@ -37,9 +37,9 @@ const TechSkills = () => {
                                 <tr>
                                     <td> <i class="fab fa-react"></i> React (v. 16.8+)</td>
                                 </tr>
-                                <tr>
+                                {/* <tr>
                                     <td>Underscore (REPLACE)</td>
-                                </tr>
+                                </tr> */}
                             </tbody>
                         </Table>
                     </Col>
@@ -52,14 +52,14 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>Express.js</td>
+                                    <td><img width="15px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> Express</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/color/15/000000/mongodb.png"/> MongoDB</td>
+                                    <td><img width="15px"src="./photos/icons8-mongodb.png"/> MongoDB/Mongoose</td>
                                 </tr>
-                                <tr>
+                                {/* <tr>
                                     <td>Mongoose</td>
-                                </tr>
+                                </tr> */}
                                 <tr>
                                     <td><i class="fab fa-node-js"></i> Node.js</td>
                                 </tr>
@@ -71,38 +71,6 @@ const TechSkills = () => {
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/metro/15/000000/sql.png"/> SQL</td>
-                                </tr>
-                            </tbody>
-                        </Table>
-                    </Col>
-                    <Col>
-                        <Table borderless={true}>
-                            <thead>
-                                <tr>
-                                    <th>Testing</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Chai</td>
-                                </tr>
-                                <tr>
-                                    <td>Enzyme</td>
-                                </tr>
-                                <tr>
-                                    <td>Jest</td>
-                                </tr>
-                                <tr>
-                                    <td>K6</td>
-                                </tr>
-                                <tr>
-                                    <td>Loader.io</td>
-                                </tr>
-                                <tr>
-                                    <td>Mocha</td>
-                                </tr>
-                                <tr>
-                                    <td>React Testing Library</td>
                                 </tr>
                             </tbody>
                         </Table>
@@ -127,14 +95,46 @@ const TechSkills = () => {
                                 <tr>
                                     <td><i class="fab fa-docker"></i> Docker</td>
                                 </tr>
+                                {/* <tr>
+                                    <td> Git</td>
+                                </tr> */}
                                 <tr>
-                                    <td><i class="fab fa-git"></i> Git</td>
-                                </tr>
-                                <tr>
-                                    <td><i class="fab fa-github"></i> GitHub</td>
+                                    <td><i class="fab fa-github"></i> Git/GitHub</td>
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" /> Webpack</td>
+                                </tr>
+                            </tbody>
+                        </Table>
+                    </Col>
+                    <Col>
+                        <Table borderless={true}>
+                            <thead>
+                                <tr>
+                                    <th>Testing</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><i class="fas fa-coffee"></i> Mocha/Chai</td>
+                                </tr>
+                                {/* <tr>
+                                    <td>Enzyme/</td>
+                                </tr> */}
+                                <tr>
+                                    <td><span class="iconify" data-icon="logos-jest" data-inline="false"></span> Jest/Enzyme</td>
+                                </tr>
+                                <tr>
+                                    <td>K6</td>
+                                </tr>
+                                <tr>
+                                    <td>Loader.io</td>
+                                </tr>
+                                {/* <tr>
+                                    <td>Mocha</td>
+                                </tr> */}
+                                <tr>
+                                    <td>React Testing Library</td>
                                 </tr>
                             </tbody>
                         </Table>
