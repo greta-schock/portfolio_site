@@ -61,7 +61,7 @@ const TechSkills = () => {
                                     <td>Mongoose</td>
                                 </tr>
                                 <tr>
-                                    <td>Node.js</td>
+                                    <td><i class="fab fa-node-js"></i> Node.js</td>
                                 </tr>
                                 <tr>
                                     <td>MySQL</td>
@@ -116,31 +116,36 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>AWS - EC2</td>
+                                    <td><i class="fab fa-aws"></i> AWS - EC2</td>
                                 </tr>
                                 <tr>
-                                    <td>Babel</td>
+                                    <td><img src="https://img.icons8.com/wired/20/000000/babel.png"/> Babel</td>
                                 </tr>
                                 <tr>
-                                    <td>CircleCI</td>
+                                    <td><img src="https://img.icons8.com/color/15/000000/circleci.png"/> CircleCI</td>
                                 </tr>
                                 <tr>
-                                    <td>Docker</td>
+                                    <td><i class="fab fa-docker"></i> Docker</td>
                                 </tr>
                                 <tr>
-                                    <td>Git</td>
+                                    <td><i class="fab fa-git"></i> Git</td>
                                 </tr>
                                 <tr>
-                                    <td>GitHub</td>
+                                    <td><i class="fab fa-github"></i> GitHub</td>
                                 </tr>
                                 <tr>
-                                    <td>Webpack</td>
+                                    <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" /> Webpack</td>
                                 </tr>
                             </tbody>
                         </Table>
                     </Col>
                 </Row>
             </Container>
+            <div>
+                <a href="https://icons8.com/icon/c2zmJ2--GehY/webpack">Webpack icon by Icons8</a>
+                <a href="https://icons8.com/icon/C4OYHif_29XE/circleci">Circleci icon by Icons8</a>
+                <a href="https://icons8.com/icon/OOrZQ7xdvxjX/babel">Babel icon by Icons8</a>
+            </div>
         </>
     )
 }
