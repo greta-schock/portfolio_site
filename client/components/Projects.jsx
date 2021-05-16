@@ -7,9 +7,9 @@ import ProjectCatwalkCarousel from './projects_components/ProjectCatwalkCarousel
 import SmoveCarousel from './projects_components/SmoveCarousel';
 
 const Projects = () => (
-    <>
+    <div id="projects">
         <h1>Projects</h1>
-        <CardDeck id="projects">
+        <CardDeck >
             <Card border="info" >
                 <SmoveCarousel />
                 <Card.Body>
@@ -41,7 +41,7 @@ const Projects = () => (
                 </Card.Footer>
             </Card>
         </CardDeck>
-    </>
+    </div>
 );
 
 export default Projects;

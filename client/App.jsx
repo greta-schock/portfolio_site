@@ -13,7 +13,7 @@ const App = () => {
     return (
         <>
             <Navbar sticky="top" id="navbar" bg="dark" variant="dark">
-                <Navbar.Brand id="home" href="#home">Greta Schock</Navbar.Brand>
+                <Navbar.Brand id="landing" href="#landing">Greta Schock</Navbar.Brand>
                 <Nav className="mr-auto">
                     <Nav.Link href="#tech_skills">Tech Skills</Nav.Link>
                     <Nav.Link href="#projects">Projects</Nav.Link>
