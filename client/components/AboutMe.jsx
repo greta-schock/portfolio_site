@@ -2,14 +2,12 @@ import React from 'react';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import Jumbotron from 'react-bootstrap/Jumbotron';
 import Row from 'react-bootstrap/Row';
 
 const AboutMe = () => {
     return (
         <>
-        <Jumbotron>
-            <Container>
+            <Container id="about_me">
                 <Row>
                     <Col sm={5}>
                         <Image id="profile_pic" src="./photos/profile_pic.jpeg" />
@@ -23,7 +21,6 @@ const AboutMe = () => {
                     </Col>
                 </Row>
             </Container>
-        </Jumbotron>
         </>
     )
 }

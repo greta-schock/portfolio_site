@@ -8,6 +8,10 @@ html {
   object-fit: cover;
 }
 
+#about_me {
+  background-color: #1E2A28;
+}
+
 #about_me_text {
   margin: 30px;
   text-align: center;
