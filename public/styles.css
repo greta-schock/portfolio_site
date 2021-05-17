@@ -27,8 +27,8 @@ html {
 }
 
 #profile_pic {
-  width: 350px;
-  height: auto;
+  width: auto;
+  height: 49vh;
 }
 
 #projects {
