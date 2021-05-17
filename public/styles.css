@@ -11,7 +11,11 @@ html {
 #content {
   /* background-color: #1E2A28; */
   background-color: lightblue;
+}
 
+#about_me {
+  height: 70vh;
+  background-color: lightgreen;
 }
 
 #about_me_text {
