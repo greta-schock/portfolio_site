@@ -20,22 +20,22 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><i class="fab fa-bootstrap"></i> Bootstrap</td>
+                                    <td><i className="fab fa-bootstrap"></i> Bootstrap</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-css3-alt"></i> CSS 3</td>
+                                    <td><i className="fab fa-css3-alt"></i> CSS 3</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-html5"></i> HTML 5</td>
+                                    <td><i className="fab fa-html5"></i> HTML 5</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-js-square"></i> JavaScript (ES5/ES6)</td>
+                                    <td><i className="fab fa-js-square"></i> JavaScript (ES5/ES6)</td>
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/ios-filled/15/000000/jquery.png" alt="jQuery_icon"/> jQuery</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-react"></i> React (v. 16.8+)</td>
+                                    <td><i className="fab fa-react"></i> React (v. 16.8+)</td>
                                 </tr>
                             </tbody>
                         </Table>
@@ -55,7 +55,7 @@ const TechSkills = () => {
                                     <td><img width="15px"src="./photos/icons8-mongodb.png" alt="MongoDB_icon"/> MongoDB/Mongoose</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-node-js"></i> Node.js</td>
+                                    <td><i className="fab fa-node-js"></i> Node.js</td>
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/ios-filled/15/000000/mysql-logo.png" alt="MySQL_icon"/> MySQL</td>
@@ -78,7 +78,7 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><i class="fab fa-aws"></i> AWS - EC2</td>
+                                    <td><i className="fab fa-aws"></i> AWS - EC2</td>
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/wired/20/000000/babel.png" alt="babel_icon"/> Babel</td>
@@ -87,13 +87,13 @@ const TechSkills = () => {
                                     <td><img src="https://img.icons8.com/color/15/000000/circleci.png" alt="circleCI_icon"/> CircleCI</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-docker"></i> Docker</td>
+                                    <td><i className="fab fa-docker"></i> Docker</td>
                                 </tr>
                                 {/* <tr>
                                     <td> Git</td>
                                 </tr> */}
                                 <tr>
-                                    <td><i class="fab fa-github"></i> Git/GitHub</td>
+                                    <td><i className="fab fa-github"></i> Git/GitHub</td>
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" alt="webpack_icon"/> Webpack</td>
@@ -110,19 +110,19 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><i class="fas fa-coffee"></i> Mocha/Chai</td>
+                                    <td><i className="fas fa-coffee"></i> Mocha/Chai</td>
                                 </tr>
                                 <tr>
-                                    <td><span class="iconify" data-icon="logos-jest" data-inline="false"></span> Jest/Enzyme</td>
+                                    <td><span className="iconify" data-icon="logos-jest" data-inline="false"></span> Jest/Enzyme</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fas fa-mountain"></i> K6</td>
+                                    <td><i className="fas fa-mountain"></i> K6</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fas fa-weight-hanging"></i> Loader.io</td>
+                                    <td><i className="fas fa-weight-hanging"></i> Loader.io</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-react"></i> React Testing Library</td>
+                                    <td><i className="fab fa-react"></i> React Testing Library</td>
                                 </tr>
                             </tbody>
                         </Table>
