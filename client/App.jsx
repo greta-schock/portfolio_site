@@ -21,6 +21,7 @@ const App = () => {
                 </Nav>
             </Navbar>
             <Landing />
+            <div id="content">
             <AboutMe />
             <br></br>
             <TechSkills />
@@ -28,6 +29,7 @@ const App = () => {
             <Projects />
             <br></br>
             <ContactMe />
+            </div>
         </>
     )
 }

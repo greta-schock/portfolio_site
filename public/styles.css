@@ -8,8 +8,10 @@ html {
   object-fit: cover;
 }
 
-#about_me {
-  background-color: #1E2A28;
+#content {
+  /* background-color: #1E2A28; */
+  background-color: lightblue;
+
 }
 
 #about_me_text {
