@@ -4,7 +4,7 @@ html {
 
 #background {
   width: auto; /* width of container */
-  height: 1000px; /* height of container */
+  height: 90vh; /* height of container */
   object-fit: cover;
 }
 
