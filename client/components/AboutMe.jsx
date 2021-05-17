@@ -14,11 +14,10 @@ const AboutMe = () => {
                         <Image id="profile_pic" src="./photos/profile_pic.jpeg" />
                     </Col>
                     <Col >
-                        <h1>Hello, world!</h1>
+                        <h1>Whale, hello world! 🐳 </h1>
                         <p>
-                        Whale, hello world! 🐳 My name is Greta and I am a full-stack software engineer. I'm currently working on passion projects while also considering other employment opportunities. My interest stems from the human element of web development. My professional background thus far has been in guiding and tourism, but I have since shifted to software engineering to create accessible tools that will have a positive impact on the global community. Please feel free to reach out if you have any questions or would like to connect!
+                        My name is Greta Schock and I am a Full-Stack Software Engineer. My interest in SWE stems from the human element of web development. After receiving my both Bachelor of Arts in International Affairs - Latin America concentration and Anthropolgy, but I have since shifted to software engineering to create accessible tools that will have a positive impact on the global community. Please feel free to reach out if you have any questions or would like to connect!
                         </p>
-
                     </Col>
                 </Row>
             </Container>

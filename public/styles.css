@@ -15,6 +15,7 @@ html {
 
 #about_me {
   height: 70vh;
+  margin: 10vh;
   background-color: lightgreen;
 }
 
