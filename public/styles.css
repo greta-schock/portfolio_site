@@ -29,9 +29,13 @@ html {
 
 #profile_pic {
   width: auto;
-  height: 49vh;
+  height: 50vh;
+}
+
+#tech_skills {
+  margin: 10vh;
 }
 
 #projects {
-  margin: 30px;
+  margin: 10vh;
 }
