@@ -9,17 +9,17 @@ html {
 }
 
 #content {
-  /* background-color: #1E2A28; */
+  color: white;
+  
   margin: auto;
-  padding-right: 5vw;
-  padding-left: 5vw;
-  background-color: lightblue;
+  /* padding-right: 5vw;
+  padding-left: 5vw; */
 }
 
 #about_me {
-  padding: 10px;
+  background-color: #204e4a;
+  color: white;
   height: 70vh;
-  background-color: lightgreen;
 }
 
 #about_me_text {
