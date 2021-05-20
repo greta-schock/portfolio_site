@@ -10,20 +10,18 @@ html {
 
 #content {
   color: white;
-  
   margin: auto;
   /* padding-right: 5vw;
   padding-left: 5vw; */
 }
 
 #about_me {
-  background-color: #204e4a;
+  background-color: #080E02;
   color: white;
   height: 70vh;
 }
 
 #about_me_text {
-  margin: 30px;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -36,9 +34,14 @@ html {
 }
 
 #tech_skills {
+  height: 70vh;
   /* margin: 10vh; */
+  color:white;
+  background-color: #204e4a;
 }
 
 #projects {
-  /* margin: 10vh; */
+  background-color: #297045;
+  height: 70vh;
+  color:black;
 }
