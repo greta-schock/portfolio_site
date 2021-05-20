@@ -20,6 +20,7 @@ const AboutMe = () => {
                         </p>
                         <a href ="https://drive.google.com/file/d/1DowFaJe9AcpwBkowa8ifB_31yKTl7Sb8/view?usp=sharing" target="_blank" attributes-list> Resume via Google Docs </a>  
                     </Col>
+                
                 </Row>
             </Container>
         </>

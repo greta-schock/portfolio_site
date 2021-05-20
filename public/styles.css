@@ -10,12 +10,14 @@ html {
 
 #content {
   /* background-color: #1E2A28; */
+  margin: auto;
   background-color: lightblue;
 }
 
 #about_me {
+  margin: auto;
+  padding: 10px;
   height: 70vh;
-  margin: 10vh;
   background-color: lightgreen;
 }
 

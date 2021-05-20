@@ -15,6 +15,7 @@ const App = () => {
             <Navbar sticky="top" id="navbar" bg="dark" variant="dark">
                 <Navbar.Brand id="landing" href="#landing">Greta Schock</Navbar.Brand>
                 <Nav className="mr-auto">
+                    <Nav.Link href="#about_me">About Me</Nav.Link>
                     <Nav.Link href="#tech_skills">Tech Skills</Nav.Link>
                     <Nav.Link href="#projects">Projects</Nav.Link>
                     <Nav.Link href="#contact_me">Contact Me</Nav.Link>
@@ -22,13 +23,13 @@ const App = () => {
             </Navbar>
             <Landing />
             <div id="content">
-            <AboutMe />
-            <br></br>
-            <TechSkills />
-            <br></br>
-            <Projects />
-            <br></br>
-            <ContactMe />
+                <AboutMe />
+                <br></br>
+                <TechSkills />
+                <br></br>
+                <Projects />
+                <br></br>
+                <ContactMe />
             </div>
         </>
     )
