@@ -11,6 +11,8 @@ html {
 #content {
   /* background-color: #1E2A28; */
   margin: auto;
+  padding-right: 5vw;
+  padding-left: 5vw;
   background-color: lightblue;
 }
 
@@ -34,9 +36,9 @@ html {
 }
 
 #tech_skills {
-  margin: 10vh;
+  /* margin: 10vh; */
 }
 
 #projects {
-  margin: 10vh;
+  /* margin: 10vh; */
 }
