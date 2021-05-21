@@ -8,8 +8,9 @@ import Row from 'react-bootstrap/Row';
 const AboutMe = () => {
     return (
         <div id="about_me">
-            <h1>About Me</h1>
             <Container>
+            <h1>About Me</h1>
+            <br></br>
                 <Row>
                     <Col >
                         <Image id="profile_pic" src="./photos/profile_pic.jpeg" />

@@ -21,6 +21,7 @@ const App = () => {
                     <Nav.Link href="#contact_me">Contact Me</Nav.Link>
                 </Nav>
             </Navbar>
+            <br></br>
             <Landing />
             <div id="content">
                 <AboutMe />

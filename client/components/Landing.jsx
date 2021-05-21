@@ -13,8 +13,6 @@ const Landing = () => (
         </Card.ImgOverlay>
     </Card>
     </div>
-
-
 )
 
 export default Landing;

@@ -10,15 +10,17 @@ html {
 
 #content {
   color: white;
+  /* background-color: #142221; */
+  background-color: #204e4a;
   margin: auto;
   /* padding-right: 5vw;
   padding-left: 5vw; */
 }
 
 #about_me {
-  background-color: #37342B;
+  background-color: #142221;
   color: white;
-  height: 70vh;
+  height: 90vh;
 }
 
 #about_me_text {
@@ -34,14 +36,18 @@ html {
 }
 
 #tech_skills {
-  height: 70vh;
+  height: 90vh;
   /* margin: 10vh; */
   color:white;
-  background-color: #204e4a;
+  /* background-color: #204e4a; */
+}
+
+th, td {
+  color: white;
 }
 
 #projects {
-  background-color: #297045;
-  height: 70vh;
+  background-color: #142221;
+  height: 90vh;
   color:black;
 }
