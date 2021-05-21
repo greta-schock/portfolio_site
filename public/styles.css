@@ -1,6 +1,9 @@
 html {
   scroll-behavior: smooth;
 }
+figure {
+  width: 30vw;
+}
 
 #background {
   width: auto; /* width of container */

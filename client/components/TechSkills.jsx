@@ -7,7 +7,6 @@ import Table from 'react-bootstrap/Table';
 const TechSkills = () => {
     return (
         <div id="tech_skills">
-            {/* <figure><embed src="https://wakatime.com/share/@55a54f0e-e543-48bb-846e-b49420dbb3a4/5e8d85e2-c12e-46f1-b368-113a58f9c899.svg"></embed></figure> */}
             <Container>
             <h1>Tech Skills</h1>
                 <Row>
