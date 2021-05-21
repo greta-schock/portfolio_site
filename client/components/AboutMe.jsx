@@ -21,7 +21,7 @@ const AboutMe = () => {
                         <br></br>
                         <br></br>
                         <div>
-                            My name is Greta Schock and I am a Full-Stack Software Engineer. My interest in SWE stems from the human element of web development. After receiving a Bachelor of Arts in both International Affairs - Latin America and Anthropolgy, I have shifted to software engineering to create accessible tools that will have a positive impact on the global community.
+                            My name is Greta Schock and I am a Full-Stack Software Engineer. I want to build projects that factor in the human element of web development. After receiving a Bachelor of Arts in both International Affairs - Latin America and Anthropolgy, I have shifted to software engineering to create accessible tools that will have a positive impact on the global community.
                         </div>
                         <br></br>
                         <div>
