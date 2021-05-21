@@ -24,11 +24,11 @@ const AboutMe = () => {
                         </div>
                         <br></br>
                         <div>
-                            After writing my thesis, <i>Technology and Education in sub-Saharan Africa</i> for my B.A. in International Affairs at the University of Colorado at Boulder, I was inspired learn web development. I argued that better access to computers would create a diversified work force and stimulate local economies. Learning to code was an easy decision!
+                            After writing my thesis, <i>Technology and Education in sub-Saharan Africa</i> for my B.A. in International Affairs at the University of Colorado at Boulder, I was inspired learn web development. I argued that better access to computers would create a diversified work force and stimulate local economies. Taking the initiative to learn how to code was an easy decision!
                         </div>
                         <br></br>
                         <div>
-                            Please feel free to reach out if you have any questions or would like to connect!
+                            Please reach out if you have any questions or would like to connect!
                         </div>
                         <br></br>
                         <Button href="https://drive.google.com/file/d/1DowFaJe9AcpwBkowa8ifB_31yKTl7Sb8/view?usp=sharing" target="_blank" size="lg" variant="outline-light"><i className="fas fa-file"></i> Resume</Button>{'   '}
