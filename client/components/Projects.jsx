@@ -25,7 +25,7 @@ const Projects = () => (
                             <Card.Text>A web app to organize all aspects of a residential move.</Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <small className="text-muted">React | Bootstrap | Express | MongoDB Atlas | Google Authentication | Yelp API</small>
+                            <small className="text-muted">React (v. 17) | Bootstrap | React.Router | CSS Stylized Components | Express.js | Axios | MongoDB Atlas | Mongoose | Google Authorization | Yelp API </small>
                         </Card.Footer>
                     </Card>
                     <br></br>
@@ -37,7 +37,7 @@ const Projects = () => (
                             <Card.Text>A web app to explore and save various hikes in U.S. National Parks</Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <small className="text-muted">React | Bootstrap | Express | PostgreSQL | National Parks Service API</small>
+                            <small className="text-muted">React (v. 17) | Bootstrap | Express.js | Node.js | PostgreSQL | National Parks Service API  | REST API  | Axios </small>
                         </Card.Footer>
                     </Card>
                     <br></br>
@@ -52,7 +52,7 @@ const Projects = () => (
                             <Card.Text>A e-commerce web app with a product overview, questions/answers, and ratings and review sections</Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <small className="text-muted">React | CSS | Express | PostgreSQL | REST APIs | K6 | AWS | NGINX | Loader.io | Docker</small>
+                            <small className="text-muted">React | CSS | Express.js | PostgreSQL | REST APIs | Axios| K6 | AWS | NGINX | Loader.io | Docker</small>
                         </Card.Footer>
                     </Card>
                     <br></br>
