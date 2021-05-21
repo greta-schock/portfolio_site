@@ -22,11 +22,11 @@ const App = () => {
                     <Nav.Link href="#projects">Projects</Nav.Link>
                     {/* <Nav.Link href="#contact_me">Contact Me</Nav.Link> */}
                 </Nav>
-                <Form inline>
-                    <Button href="https://www.linkedin.com/in/greta-schock/" target="_blank" size="sm" variant="light"><i className="fab fa-linkedin-in"></i></Button>
-                    <Button href="https://github.com/grsc0529" target="_blank" size="sm" variant="light"><i className="fab fa-github"></i></Button>
-                    <Button href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=greta.schock@gmail.com" target="_blank" size="sm" variant="light"><i className="fas fa-envelope"></i></Button>
-                </Form>
+                <div inline>
+                    <Button href="https://www.linkedin.com/in/greta-schock/" target="_blank" className="nav_button_link" size="sm" variant="light"><i className="fab fa-linkedin-in"></i></Button>
+                    <Button href="https://github.com/grsc0529" target="_blank" className="nav_button_link" size="sm" variant="light"><i className="fab fa-github"></i></Button>
+                    <Button href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=greta.schock@gmail.com" target="_blank" className="nav_button_link" size="sm" variant="light"><i className="fas fa-envelope"></i></Button>
+                </div>
             </Navbar>
             <Landing />
             <div id="content">

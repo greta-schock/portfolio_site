@@ -16,6 +16,10 @@ div, td {
   font-family: 'Open Sans', sans-serif;
 }
 
+.nav_button_link {
+  margin-left: 10px;
+}
+
 #background {
   width: auto;
   height: 90vh;
