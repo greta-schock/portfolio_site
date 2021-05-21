@@ -15,7 +15,7 @@ const App = () => {
     return (
         <>
             <Navbar fixed="top" id="navbar" bg="dark" variant="dark" expand="lg">
-                <Navbar.Brand id="landing" href="#landing">Greta Schock</Navbar.Brand>
+                <Navbar.Brand href="#landing">Greta Schock</Navbar.Brand>
                 <Nav className="mr-auto">
                     <Nav.Link href="#about_me">About Me</Nav.Link>
                     <Nav.Link href="#tech_skills">Tech Skills</Nav.Link>
