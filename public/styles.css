@@ -21,13 +21,14 @@ div, th, td {
   background-color: #142221;
   color: white;
   height: 90vh;
+  /* position: relative; */
 }
 
-#about_me_text {
-  text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
+#about_me_child {
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+ 
 }
 
 #profile_pic {

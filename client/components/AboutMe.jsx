@@ -8,7 +8,7 @@ import Row from 'react-bootstrap/Row';
 const AboutMe = () => {
     return (
         <div id="about_me">
-            <Container>
+            <Container id="about_me_child">
             <h1>About Me</h1>
             <br></br>
                 <Row>
