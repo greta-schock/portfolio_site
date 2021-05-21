@@ -1,7 +1,6 @@
 import React from 'react';
 //Bootstrap Imports
 import Button from 'react-bootstrap/Button';
-import Form from 'react-bootstrap/Form';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 //Component Imports
@@ -15,7 +14,7 @@ const App = () => {
     return (
         <>
             <Navbar fixed="top" id="navbar" bg="dark" variant="dark" expand="lg">
-                <Navbar.Brand href="#landing">Greta Schock</Navbar.Brand>
+                <Navbar.Brand href="#landing" style={{fontSize: "25px", fontWeight:"bold"}}>Greta Schock</Navbar.Brand>
                 <Nav className="mr-auto">
                     <Nav.Link href="#about_me">About Me</Nav.Link>
                     <Nav.Link href="#tech_skills">Tech Skills</Nav.Link>
