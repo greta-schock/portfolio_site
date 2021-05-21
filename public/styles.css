@@ -8,9 +8,9 @@ h1 {
 }
 
 th {
-  font-size: x-large;
-  font-family: 'Noto Serif', serif;
-}
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;}
 
 div, td {
   font-size: large;
