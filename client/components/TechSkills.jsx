@@ -9,6 +9,8 @@ const TechSkills = () => {
         <div id="tech_skills">
             <Container>
             <h1>Tech Skills</h1>
+            <br></br>
+            <br></br>
                 <Row>
                     <Col>
                         <Table borderless={true}>
