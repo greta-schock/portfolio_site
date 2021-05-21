@@ -2,7 +2,7 @@ import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 
 const BootketListCarousel = () => (
-        <Carousel interval={null}>
+        <Carousel >
             <Carousel.Item>
                 <img
                     className="d-block w-100"
