@@ -9,7 +9,7 @@ const AboutMe = () => {
     return (
         <div id="about_me">
             <Container id="about_me_child">
-                <h1>About Me</h1>
+                <h1 style={{fontSize: "50px"}}>About Me</h1>
                 <br></br>
                 <br></br>
                 <Row>
