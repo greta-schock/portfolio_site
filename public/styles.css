@@ -1,8 +1,9 @@
 html {
   scroll-behavior: smooth;
 }
-figure {
-  width: 30vw;
+
+th, td {
+  color: white;
 }
 
 #background {
@@ -45,9 +46,6 @@ figure {
   /* background-color: #204e4a; */
 }
 
-th, td {
-  color: white;
-}
 
 #projects {
   background-color: #142221;
