@@ -6,7 +6,7 @@ const Landing = () => (
     <div id="landing">
     <Card className="bg-dark text-white">
         <Card.Img id="background" src="./photos/gc2.jpeg" alt="Card image"/>
-        <Card.ImgOverlay id="about_me_text">
+        <Card.ImgOverlay id="landing_title">
             <h1>Greta Schock</h1>
             <div>Fullstack Software Engineer</div>
             <div>Seattle, WA</div>

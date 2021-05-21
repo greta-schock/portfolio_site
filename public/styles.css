@@ -17,6 +17,13 @@ div, th, td {
   margin: auto;
 }
 
+#landing_title {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
 #about_me {
   background-color: #142221;
   color: white;
