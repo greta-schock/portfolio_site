@@ -2,12 +2,18 @@ html {
   scroll-behavior: smooth;
 }
 
-div, td {
-  font-size: large;
+h1 {
+  font-family: 'Noto Serif', serif;
 }
 
 th {
   font-size: x-large;
+  font-family: 'Noto Serif', serif;
+}
+
+div, td {
+  font-size: large;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #background {
