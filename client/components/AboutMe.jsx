@@ -9,8 +9,9 @@ const AboutMe = () => {
     return (
         <div id="about_me">
             <Container id="about_me_child">
-            <h1>About Me</h1>
-            <br></br>
+                <h1>About Me</h1>
+                <br></br>
+                <br></br>
                 <Row>
                     <Col >
                         <Image id="profile_pic" src="./photos/profile_pic.jpeg" />
