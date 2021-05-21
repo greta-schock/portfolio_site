@@ -28,11 +28,10 @@ div, th, td {
   background-color: #142221;
   color: white;
   height: 90vh;
-  /* position: relative; */
+  padding-top: 10vh;
 }
 
 #about_me_child {
-  /* display: flex; */
   justify-content: center;
   align-items: center;
  
@@ -44,12 +43,15 @@ div, th, td {
 }
 
 #tech_skills {
-  height: 90vh;
   color:black;
+  height: 90vh;
+  padding-top: 10vh;
 }
 
 
 #projects {
   background-color: #142221;
   height: 90vh;
+  padding-top: 10vh;
+
 }
