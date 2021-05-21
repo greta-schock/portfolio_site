@@ -28,10 +28,10 @@ const AboutMe = () => {
                             Please feel free to reach out if you have any questions or would like to connect!
                         </div>
                         <br></br>
-                        <Button href="https://drive.google.com/file/d/1DowFaJe9AcpwBkowa8ifB_31yKTl7Sb8/view?usp=sharing" target="_blank" size="lg" variant="light"><i className="fas fa-file"></i> Resume</Button>{'   '}
-                        <Button href="https://www.linkedin.com/in/greta-schock/" target="_blank" size="lg" variant="light"><i className="fab fa-linkedin-in"></i> LinkedIn</Button>{'   '}
-                        <Button href="https://github.com/grsc0529" target="_blank" size="lg" variant="light"><i className="fab fa-github"></i> GitHub</Button>{'   '}
-                        <Button href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=greta.schock@gmail.com" target="_blank" size="lg" variant="light"><i className="fas fa-envelope"></i> Gmail</Button>
+                        <Button href="https://drive.google.com/file/d/1DowFaJe9AcpwBkowa8ifB_31yKTl7Sb8/view?usp=sharing" target="_blank" size="lg" variant="outline-light"><i className="fas fa-file"></i> Resume</Button>{'   '}
+                        <Button href="https://www.linkedin.com/in/greta-schock/" target="_blank" size="lg" variant="outline-light"><i className="fab fa-linkedin-in"></i> LinkedIn</Button>{'   '}
+                        <Button href="https://github.com/grsc0529" target="_blank" size="lg" variant="outline-light"><i className="fab fa-github"></i> GitHub</Button>{'   '}
+                        <Button href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=greta.schock@gmail.com" target="_blank" size="lg" variant="outline-light"><i className="fas fa-envelope"></i> Gmail</Button>
                     </Col>
 
                 </Row>
