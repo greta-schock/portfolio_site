@@ -13,7 +13,7 @@ import ContactMe from './components/ContactMe.jsx';
 const App = () => {
     return (
         <>
-            <Navbar fixed="top" id="navbar" bg="dark" variant="dark" expand="lg">
+            <Navbar fixed="top" id="navbar" bg="dark" variant="dark" expand="sm">
                 <Navbar.Brand href="#landing" style={{fontSize: "25px", fontWeight:"bold"}}>Greta Schock</Navbar.Brand>
                 <Nav className="mr-auto">
                     <Nav.Link href="#about_me">About Me</Nav.Link>
