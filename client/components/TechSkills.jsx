@@ -8,9 +8,9 @@ const TechSkills = () => {
     return (
         <div id="tech_skills">
             <Container>
-            <h1 style={{fontSize: "50px"}}>Tech Skills</h1>
-            <br></br>
-            <br></br>
+                <h1 style={{ fontSize: "50px" }}>Tech Skills</h1>
+                <br></br>
+                <br></br>
                 <Row>
                     <Col>
                         <Table borderless={true}>
@@ -33,7 +33,7 @@ const TechSkills = () => {
                                     <td><i className="fab fa-js-square"></i> JavaScript (ES5/ES6)</td>
                                 </tr>
                                 <tr>
-                                    <td><i className="far fa-circle"></i> jQuery</td>
+                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/jquery.png" alt="jQuery_icon" /> jQuery</td>
                                 </tr>
                                 <tr>
                                     <td><i className="fab fa-react"></i> React (v. 16.8+)</td>
@@ -50,23 +50,26 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><img width="15px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express_icon"/> Express</td>
+                                    <td><img width="15px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express_icon" /> Express</td>
                                 </tr>
                                 <tr>
-                                    <td><img width="15px"src="./photos/icons8-mongodb.png" alt="MongoDB_icon"/> MongoDB/Mongoose</td>
+                                    <td><img width="15px" src="./photos/icons8-mongodb.png" alt="MongoDB_icon" /> MongoDB</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fas fa-circle"></i> Mongoose</td>
                                 </tr>
                                 <tr>
                                     <td><i className="fab fa-node-js"></i> Node.js</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/mysql-logo.png" alt="MySQL_icon"/> MySQL</td>
+                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/mysql-logo.png" alt="MySQL_icon" /> MySQL</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/material/15/000000/postgreesql.png" alt="PostgreSQL_icon"/> PostgreSQL</td>
+                                    <td><img src="https://img.icons8.com/material/15/000000/postgreesql.png" alt="PostgreSQL_icon" /> PostgreSQL</td>
                                 </tr>
-                                {/* <tr>
-                                    <td><img src="https://img.icons8.com/metro/15/000000/sql.png" alt="SQL_icon"/> SQL</td>
-                                </tr> */}
+                                <tr>
+                                    <td><img src="https://img.icons8.com/metro/15/000000/sql.png" alt="SQL_icon" /> SQL</td>
+                                </tr>
                             </tbody>
                         </Table>
                     </Col>
@@ -82,22 +85,22 @@ const TechSkills = () => {
                                     <td><i className="fab fa-aws"></i> AWS - EC2</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/wired/20/000000/babel.png" alt="babel_icon"/> Babel</td>
+                                    <td><img src="https://img.icons8.com/wired/20/000000/babel.png" alt="babel_icon" /> Babel</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/color/15/000000/circleci.png" alt="circleCI_icon"/> CircleCI</td>
+                                    <td><img src="https://img.icons8.com/color/15/000000/circleci.png" alt="circleCI_icon" /> CircleCI</td>
                                 </tr>
                                 <tr>
                                     <td><i className="fab fa-docker"></i> Docker</td>
                                 </tr>
-                                {/* <tr>
-                                    <td> Git</td>
-                                </tr> */}
                                 <tr>
-                                    <td><i className="fab fa-github"></i> Git/GitHub</td>
+                                    <td><i class="fab fa-git"></i> Git</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" alt="webpack_icon"/> Webpack</td>
+                                    <td><i className="fab fa-github"></i> GitHub</td>
+                                </tr>
+                                <tr>
+                                    <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" alt="webpack_icon" /> Webpack</td>
                                 </tr>
                             </tbody>
                         </Table>
@@ -111,10 +114,16 @@ const TechSkills = () => {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td><i className="fas fa-coffee"></i> Mocha/Chai</td>
+                                    <td><i className="fas fa-coffee"></i> Chai</td>
                                 </tr>
                                 <tr>
-                                    <td><span className="iconify" data-icon="logos-jest" data-inline="false"></span> Jest/Enzyme</td>
+                                    <td><i className="fab fa-react"></i> Enzyme</td>
+                                </tr>
+                                <tr>
+                                    <td><i className="fas fa-coffee"></i> Mocha</td>
+                                </tr>
+                                <tr>
+                                    <td><img width="20px" src="./photos/jesticon.png" alt="Jest icon" /> Jest</td>
                                 </tr>
                                 <tr>
                                     <td><i className="fas fa-mountain"></i> K6</td>
