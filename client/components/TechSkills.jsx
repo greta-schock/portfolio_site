@@ -64,9 +64,9 @@ const TechSkills = () => {
                                 <tr>
                                     <td><img src="https://img.icons8.com/material/15/000000/postgreesql.png" alt="PostgreSQL_icon"/> PostgreSQL</td>
                                 </tr>
-                                <tr>
+                                {/* <tr>
                                     <td><img src="https://img.icons8.com/metro/15/000000/sql.png" alt="SQL_icon"/> SQL</td>
-                                </tr>
+                                </tr> */}
                             </tbody>
                         </Table>
                     </Col>
