@@ -7,42 +7,56 @@ const SmoveCarousel = () => (
             <img
                 className="d-block w-100"
                 src="./photos/smove_screenshots/smove_getting_started.png"
-                alt="First slide"
+                alt="First Smove project slide - Getting Start page"
+            />
+        </Carousel.Item>
+        <Carousel.Item>
+            <img
+                className="d-block w-100"
+                src="./photos/smove_screenshots/smove_add_smove_modal.png"
+                alt="Second Smove project slide - Add Smove modal"
             />
         </Carousel.Item>
         <Carousel.Item>
             <img
                 className="d-block w-100"
                 src="./photos/smove_screenshots/smove_landing.png"
-                alt="First slide"
+                alt="Third Smove project slide - Landing page"
             />
         </Carousel.Item>
         <Carousel.Item>
             <img
                 className="d-block w-100"
                 src="./photos/smove_screenshots/smove_tasks.png"
-                alt="First slide"
+                alt="Fourth Smove project slide - Tasks page"
+            />
+        </Carousel.Item>
+        <Carousel.Item>
+            <img
+                className="d-block w-100"
+                src="./photos/smove_screenshots/smove_tasks_modal.png"
+                alt="Fifth Smove project slide - Add Task modal"
             />
         </Carousel.Item>
         <Carousel.Item>
             <img
                 className="d-block w-100"
                 src="./photos/smove_screenshots/smove_inventory.png"
-                alt="First slide"
+                alt="Sixth Smove project slide - Inventory page"
             />
         </Carousel.Item>
         <Carousel.Item>
             <img
                 className="d-block w-100"
                 src="./photos/smove_screenshots/smove_inventory_modal.png"
-                alt="First slide"
+                alt="Seventh Smove project slide - Inventory modal"
             />
         </Carousel.Item>
         <Carousel.Item>
             <img
                 className="d-block w-100"
                 src="./photos/smove_screenshots/smove_map.png"
-                alt="First slide"
+                alt="Eigth Smove project slide - Map feature"
             />
         </Carousel.Item>
 
