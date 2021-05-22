@@ -21,7 +21,7 @@ const Projects = () => (
                     <Card border="secondary">
                         <SmoveCarousel />
                         <Card.Body>
-                            <Card.Title style={{ fontSize: "50px" }}>Smove <Button href="https://github.com/BlueOcean-Smove/Smove" target="_blank" className="nav_button_link" size="lg" variant="outline-dark"><i className="fab fa-github"></i></Button></Card.Title>
+                            <Card.Title style={{ fontSize: "50px" }}>Smove <Button href="https://github.com/BlueOcean-Smove/Smove" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button></Card.Title>
                             <Card.Text>A web app to organize all aspects of a residential move.</Card.Text>
                         </Card.Body>
                         <Card.Footer>
@@ -33,7 +33,8 @@ const Projects = () => (
                     <Card border="secondary">
                         <BootketListCarousel />
                         <Card.Body>
-                            <Card.Title style={{ fontSize: "50px" }}>Bootket List <Button href="https://github.com/grsc0529/bootket_list" target="_blank" className="nav_button_link" size="lg" variant="outline-dark"><i className="fab fa-github"></i></Button></Card.Title>
+                            <Card.Title style={{ fontSize: "50px" }}>Bootket List <Button href="https://github.com/grsc0529/bootket_list" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button>
+                            </Card.Title>
                             <Card.Text>A web app to explore and save various hikes in U.S. National Parks</Card.Text>
                         </Card.Body>
                         <Card.Footer>
@@ -46,10 +47,11 @@ const Projects = () => (
                         <ProjectCatwalkCarousel />
                         <Card.Body>
                             <Card.Title style={{ fontSize: "50px" }}>Project Catwalk
-                                <Button href="https://github.com/FEC-Brontosaurus/Catwalk" target="_blank" className="nav_button_link" size="lg" variant="outline-dark"><i className="fab fa-github"> Front End</i></Button>
-                                <Button href="https://github.com/SDC-Miracle-Max/SDC_Overview_GS" target="_blank" className="nav_button_link" size="lg" variant="outline-dark"><i className="fab fa-github"> Back End</i></Button>
-                                </Card.Title>
-                            <Card.Text>A e-commerce web app including a product overview, questions and answers, and ratings and reviews</Card.Text>
+                                <Button href="https://github.com/FEC-Brontosaurus/Catwalk" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"> Front End</i></Button>
+                                <Button href="https://github.com/SDC-Miracle-Max/SDC_Overview_GS" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"> Back End</i></Button>
+                            </Card.Title>
+                            <Card.Text>
+                                A e-commerce web app including a product overview, questions and answers, and ratings and reviews</Card.Text>
                         </Card.Body>
                         <Card.Footer>
                             <small className="text-muted">React | CSS | Express.js | PostgreSQL | REST APIs | Axios| K6 | AWS | NGINX | Loader.io | Docker</small>
