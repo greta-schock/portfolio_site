@@ -49,7 +49,7 @@ const Projects = () => (
                                 <Button href="https://github.com/FEC-Brontosaurus/Catwalk" target="_blank" className="nav_button_link" size="lg" variant="outline-dark"><i className="fab fa-github"> Front End</i></Button>
                                 <Button href="https://github.com/SDC-Miracle-Max/SDC_Overview_GS" target="_blank" className="nav_button_link" size="lg" variant="outline-dark"><i className="fab fa-github"> Back End</i></Button>
                                 </Card.Title>
-                            <Card.Text>A e-commerce web app including a product overview, questions and answers, and ratings and review</Card.Text>
+                            <Card.Text>A e-commerce web app including a product overview, questions and answers, and ratings and reviews</Card.Text>
                         </Card.Body>
                         <Card.Footer>
                             <small className="text-muted">React | CSS | Express.js | PostgreSQL | REST APIs | Axios| K6 | AWS | NGINX | Loader.io | Docker</small>
