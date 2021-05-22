@@ -33,7 +33,7 @@ const TechSkills = () => {
                                     <td><i className="fab fa-js-square"></i> JavaScript (ES5/ES6)</td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://img.icons8.com/ios-filled/15/000000/jquery.png" alt="jQuery_icon"/> jQuery</td>
+                                    <td><i className="far fa-circle"></i> jQuery</td>
                                 </tr>
                                 <tr>
                                     <td><i className="fab fa-react"></i> React (v. 16.8+)</td>
