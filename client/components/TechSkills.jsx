@@ -10,7 +10,6 @@ const TechSkills = () => {
             <Container>
                 <h1 style={{ fontSize: "50px" }}>Tech Skills</h1>
                 <br></br>
-                <br></br>
                 <Row>
                     <Col>
                         <Table borderless={true}>
@@ -25,6 +24,9 @@ const TechSkills = () => {
                                 </tr>
                                 <tr>
                                     <td><i className="fab fa-css3-alt"></i> CSS 3</td>
+                                </tr>
+                                <tr>
+                                    <td><i className="fab fa-css3-alt"></i> CSS Stylized Components</td>
                                 </tr>
                                 <tr>
                                     <td><i className="fab fa-html5"></i> HTML 5</td>
@@ -68,6 +70,9 @@ const TechSkills = () => {
                                     <td><img src="https://img.icons8.com/material/15/000000/postgreesql.png" alt="PostgreSQL_icon" /> PostgreSQL</td>
                                 </tr>
                                 <tr>
+                                    <td><i class="fas fa-server"></i> REST APIs</td>
+                                </tr>
+                                <tr>
                                     <td><img src="https://img.icons8.com/metro/15/000000/sql.png" alt="SQL_icon" /> SQL</td>
                                 </tr>
                             </tbody>
@@ -98,6 +103,18 @@ const TechSkills = () => {
                                 </tr>
                                 <tr>
                                     <td><i className="fab fa-github"></i> GitHub</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fab fa-google"></i> Google Developer Tools</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fab fa-npm"></i> npm</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fas fa-user-astronaut"></i> Postman</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fas fa-file-code"></i> VS Code</td>
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" alt="webpack_icon" /> Webpack</td>
