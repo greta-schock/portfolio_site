@@ -33,7 +33,7 @@ const Projects = () => (
                     <Card border="secondary">
                         <BootketListCarousel />
                         <Card.Body>
-                            <Card.Title style={{ fontSize: "50px" }}>Bootket List <Button href="https://github.com/grsc0529/bootket_list" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button>
+                            <Card.Title style={{ fontSize: "50px" }}>Bootket List <Button href="https://github.com/greta-schock/bootket_list" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button>
                             </Card.Title>
                             <Card.Text>A web app to explore and save various hikes in U.S. National Parks</Card.Text>
                         </Card.Body>
