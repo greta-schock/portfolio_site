@@ -15,6 +15,50 @@ const TechSkills = () => {
                         <Table borderless={true}>
                             <thead>
                                 <tr>
+                                    <th>Development</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><i className="fab fa-aws"></i> AWS - EC2</td>
+                                </tr>
+                                <tr>
+                                    <td><img src="https://img.icons8.com/wired/20/000000/babel.png" alt="babel_icon" /> Babel</td>
+                                </tr>
+                                <tr>
+                                    <td><img src="https://img.icons8.com/color/15/000000/circleci.png" alt="circleCI_icon" /> CircleCI</td>
+                                </tr>
+                                <tr>
+                                    <td><i className="fab fa-docker"></i> Docker</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fab fa-git"></i> Git</td>
+                                </tr>
+                                <tr>
+                                    <td><i className="fab fa-github"></i> GitHub</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fab fa-google"></i> Google Developer Tools</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fab fa-npm"></i> npm</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fas fa-user-astronaut"></i> Postman</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="fas fa-file-code"></i> VS Code</td>
+                                </tr>
+                                <tr>
+                                    <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" alt="webpack_icon" /> Webpack</td>
+                                </tr>
+                            </tbody>
+                        </Table>
+                    </Col>
+                    <Col>
+                        <Table borderless={true}>
+                            <thead>
+                                <tr>
                                     <th>Frontend</th>
                                 </tr>
                             </thead>
@@ -74,50 +118,6 @@ const TechSkills = () => {
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/metro/15/000000/sql.png" alt="SQL_icon" /> SQL</td>
-                                </tr>
-                            </tbody>
-                        </Table>
-                    </Col>
-                    <Col>
-                        <Table borderless={true}>
-                            <thead>
-                                <tr>
-                                    <th>Technologies</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td><i className="fab fa-aws"></i> AWS - EC2</td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://img.icons8.com/wired/20/000000/babel.png" alt="babel_icon" /> Babel</td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://img.icons8.com/color/15/000000/circleci.png" alt="circleCI_icon" /> CircleCI</td>
-                                </tr>
-                                <tr>
-                                    <td><i className="fab fa-docker"></i> Docker</td>
-                                </tr>
-                                <tr>
-                                    <td><i class="fab fa-git"></i> Git</td>
-                                </tr>
-                                <tr>
-                                    <td><i className="fab fa-github"></i> GitHub</td>
-                                </tr>
-                                <tr>
-                                    <td><i class="fab fa-google"></i> Google Developer Tools</td>
-                                </tr>
-                                <tr>
-                                    <td><i class="fab fa-npm"></i> npm</td>
-                                </tr>
-                                <tr>
-                                    <td><i class="fas fa-user-astronaut"></i> Postman</td>
-                                </tr>
-                                <tr>
-                                    <td><i class="fas fa-file-code"></i> VS Code</td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" alt="webpack_icon" /> Webpack</td>
                                 </tr>
                             </tbody>
                         </Table>
