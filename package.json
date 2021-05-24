@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/grsc0529/portfolio_site.git"
   },
+  "engines" : { 
+    "node" : ">=8.0.0 <11.0.0" 
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
