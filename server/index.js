@@ -7,9 +7,6 @@ const port = 3000;
 
 const PUBLIC_DIR = path.resolve(__dirname, '..', 'public');
 
-// app.get("", (req, res) => {
-//   res.send("Hello world");
-// })
 
 app.use(express.json());
 // app.use(morgan('dev'));

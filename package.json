@@ -12,9 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/grsc0529/portfolio_site.git"
   },
-  "engines" : { 
-    "node" : ">=8.0.0 <11.0.0" 
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -41,5 +38,8 @@
     "style-loader": "^2.0.0",
     "webpack": "^5.36.2",
     "webpack-cli": "^4.6.0"
+  },
+  "engines" : { 
+    "node" : "14.x" 
   }
 }
