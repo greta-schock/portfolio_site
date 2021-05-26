@@ -1,10 +1,10 @@
-// const express = require('express');
+const express = require('express');
 // const morgan = require('morgan');
 // const axios = require('axios');
 const path = require('path');
-// const app = express();
+const app = express();
 // const port = 3000;
-const app = require('express')();
+// const app = require('express')();
 const PORT = process.env.PORT || 8080;
 
 const PUBLIC_DIR = path.resolve(__dirname, '..', 'public');
