@@ -6,16 +6,16 @@
   "scripts": {
     "start": "nodemon server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -w --progress"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/greta-schock/portfolio_site.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Greta Schock",
   "license": "ISC",
-  "homepage": "https://github.com/greta-schock/portfolio_site#readme",
+  "homepage": "https://github.com/greta-schock/portfolio_site",
   "dependencies": {
     "@babel/core": "^7.14.0",
     "@babel/preset-env": "^7.14.0",
