@@ -32,22 +32,22 @@ const TechSkills = () => {
                                     <td><i className="fab fa-docker"></i> Docker</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-git"></i> Git</td>
+                                    <td><i className="fab fa-git"></i> Git</td>
                                 </tr>
                                 <tr>
                                     <td><i className="fab fa-github"></i> GitHub</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-google"></i> Google Developer Tools</td>
+                                    <td><i className="fab fa-google"></i> Google Developer Tools</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fab fa-npm"></i> npm</td>
+                                    <td><i className="fab fa-npm"></i> npm</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fas fa-user-astronaut"></i> Postman</td>
+                                    <td><i className="fas fa-user-astronaut"></i> Postman</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fas fa-file-code"></i> VS Code</td>
+                                    <td><i className="fas fa-file-code"></i> VS Code</td>
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/wired/15/000000/webpack.png" alt="webpack_icon" /> Webpack</td>
@@ -102,7 +102,7 @@ const TechSkills = () => {
                                     <td><img width="15px" src="./photos/icons8-mongodb.png" alt="MongoDB_icon" /> MongoDB</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fas fa-circle"></i> Mongoose</td>
+                                    <td><i className="fas fa-circle"></i> Mongoose</td>
                                 </tr>
                                 <tr>
                                     <td><i className="fab fa-node-js"></i> Node.js</td>
@@ -114,7 +114,7 @@ const TechSkills = () => {
                                     <td><img src="https://img.icons8.com/material/15/000000/postgreesql.png" alt="PostgreSQL_icon" /> PostgreSQL</td>
                                 </tr>
                                 <tr>
-                                    <td><i class="fas fa-server"></i> REST APIs</td>
+                                    <td><i className="fas fa-server"></i> REST APIs</td>
                                 </tr>
                                 <tr>
                                     <td><img src="https://img.icons8.com/metro/15/000000/sql.png" alt="SQL_icon" /> SQL</td>
