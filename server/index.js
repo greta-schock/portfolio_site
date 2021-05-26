@@ -5,7 +5,7 @@ const path = require('path');
 // const app = express();
 // const port = 3000;
 const app = require('express')();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 
 const PUBLIC_DIR = path.resolve(__dirname, '..', 'public');
 
