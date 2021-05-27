@@ -13,7 +13,7 @@ import SmoveCarousel from './projects_components/SmoveCarousel';
 const Projects = () => (
     <div id="projects">
         <Container id="about_me_child">
-            <h1 id="projects_title" style={{ fontSize: "50px" }}>Projects</h1>
+            <h1 id="projects_title" style={{ fontSize: "3em" }}>Projects</h1>
             <br></br>
             <br></br>
             <Row>
@@ -21,7 +21,7 @@ const Projects = () => (
                     <Card border="secondary">
                         <SmoveCarousel />
                         <Card.Body>
-                            <Card.Title style={{ fontSize: "50px" }}>Smove <Button href="https://github.com/BlueOcean-Smove/Smove" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button></Card.Title>
+                            <Card.Title style={{ fontSize: "3vw" }}>Smove <Button href="https://github.com/BlueOcean-Smove/Smove" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button></Card.Title>
                             <Card.Text>A web app to organize all aspects of a residential move.</Card.Text>
                         </Card.Body>
                         <Card.Footer>
@@ -33,7 +33,7 @@ const Projects = () => (
                     <Card border="secondary">
                         <BootketListCarousel />
                         <Card.Body>
-                            <Card.Title style={{ fontSize: "50px" }}>Bootket List <Button href="https://github.com/greta-schock/bootket_list" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button>
+                            <Card.Title style={{ fontSize: "2vw" }}>Bootket List <Button href="https://github.com/greta-schock/bootket_list" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button>
                             </Card.Title>
                             <Card.Text>A web app to explore and save various hikes in U.S. National Parks</Card.Text>
                         </Card.Body>
@@ -46,7 +46,7 @@ const Projects = () => (
                     <Card border="secondary">
                         <ProjectCatwalkCarousel />
                         <Card.Body>
-                            <Card.Title style={{ fontSize: "50px" }}>Project Catwalk
+                            <Card.Title style={{ fontSize: "3vw" }}>Project Catwalk
                                 <Button href="https://github.com/FEC-Brontosaurus/Catwalk" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"> Front End</i></Button>
                                 <Button href="https://github.com/SDC-Miracle-Max/SDC_Overview_GS" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"> Back End</i></Button>
                             </Card.Title>

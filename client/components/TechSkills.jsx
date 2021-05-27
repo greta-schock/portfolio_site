@@ -8,7 +8,7 @@ const TechSkills = () => {
     return (
         <div id="tech_skills">
             <Container>
-                <h1 style={{ fontSize: "5vw" }}>Tech Skills</h1>
+                <h1 style={{ fontSize: "3em" }}>Tech Skills</h1>
                 <br></br>
                 <Row>
                     <Col>
