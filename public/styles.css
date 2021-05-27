@@ -73,6 +73,12 @@ div, td {
 
 /* Loading HTML */
 
+#loader_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40vh;
+}
+
 .loader {
   border: 16px solid #f3f3f3; /* Light grey */
   border-top: 16px solid #3498db; /* Blue */
