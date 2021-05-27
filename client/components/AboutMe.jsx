@@ -9,7 +9,7 @@ const AboutMe = () => {
     return (
         <div id="about_me">
             <Container id="about_me_child">
-                <h1 style={{ fontSize: "50px" }}>About Me</h1>
+                <h1 style={{ fontSize: "5vw" }}>About Me</h1>
                 <br></br>
 
                 <Row>
@@ -17,7 +17,7 @@ const AboutMe = () => {
                         <Image id="profile_pic" src="./photos/profile_pic.jpeg" />
                     </Col>
                     <Col >
-                        <h1>Whale, hello world! 🐳 </h1>
+                        <h1 style={{ fontSize: "3em" }}>Whale, hello world! 🐳 </h1>
                         <br></br>
                         <div>
                             My name is Greta Schock and I am a Full-Stack Software Engineer living in the PNW. When I'm not coding, you can find me playing in the outdoors!
