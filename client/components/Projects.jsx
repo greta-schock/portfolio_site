@@ -21,7 +21,7 @@ const Projects = () => (
                     <Card border="secondary">
                         <SmoveCarousel />
                         <Card.Body>
-                            <Card.Title style={{ fontSize: "3vw" }}>Smove <Button href="https://github.com/BlueOcean-Smove/Smove" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button></Card.Title>
+                            <Card.Title style={{ fontSize: "2vw" }}>Smove <Button href="https://github.com/BlueOcean-Smove/Smove" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"></i></Button></Card.Title>
                             <Card.Text>A web app to organize all aspects of a residential move.</Card.Text>
                         </Card.Body>
                         <Card.Footer>
@@ -46,7 +46,7 @@ const Projects = () => (
                     <Card border="secondary">
                         <ProjectCatwalkCarousel />
                         <Card.Body>
-                            <Card.Title style={{ fontSize: "3vw" }}>Project Catwalk
+                            <Card.Title style={{ fontSize: "2vw" }}>Project Catwalk
                                 <Button href="https://github.com/FEC-Brontosaurus/Catwalk" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"> Front End</i></Button>
                                 <Button href="https://github.com/SDC-Miracle-Max/SDC_Overview_GS" target="_blank" className="nav_button_link" variant="outline-dark"><i className="fab fa-github"> Back End</i></Button>
                             </Card.Title>
