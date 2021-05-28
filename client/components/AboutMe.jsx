@@ -24,7 +24,7 @@ const AboutMe = () => {
                         </div>
                         <br></br>
                         <div>
-                            After writing my thesis for my Bachelor of Arts in International Affairs, <i>Technology and Education in sub-Saharan Africa</i> at the University of Colorado at Boulder, I aspired to become a software engineer. In my thesis, I argued that democratizing technological access through foreign aid would enable educational resources to develop a diversified workforce and stimulate local economies. Taking the initiative to learn how to code was an easy decision!
+                            After writing my thesis for my Bachelor of Arts in International Affairs, <i>Technology and Education in sub-Saharan Africa</i>, at the University of Colorado at Boulder, I aspired to become a software engineer. In my thesis, I argued that democratizing technological access through foreign aid would enable educational resources to develop a diversified workforce and stimulate local economies. Taking the initiative to learn how to code was an easy decision!
                         </div>
                         <br></br>
                         <div>
