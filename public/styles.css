@@ -57,7 +57,6 @@ div, td {
   padding-top: 10vh;
 }
 
-
 #projects {
   background-color: #142221;
   padding-top: 10vh;
@@ -69,6 +68,10 @@ div, td {
 
 .card-title {
   font-family: 'Noto Serif', serif;
+}
+
+.nav_button_link {
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* Loading HTML */
